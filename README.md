@@ -16,7 +16,7 @@ My 'alive-ho' daemon was written so I could determine which of my 20+ computers 
 
 My rtap software was an early attempt to keep time on the  Moon (where time actually runs faster) in synch with Earth, by countering relativistic effects. My dad challenged me to write it after President Biden instructed NASA to develop timezones for the Planets and the Moon. There ya go, Dad :-)
 
-Sometimes I code for the need, sometimes for the challenge, sometimes just out of interest.
+Sometimes I code for the need, sometimes for the challenge, sometimes just out of interest, 'cos why not?
 <!---
 stroggprog/stroggprog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
